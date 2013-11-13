@@ -18,4 +18,15 @@ Nodes' features are shown by a sparse matrix X, m*d, in which m is number of obj
 d is number of features.
 
 
+To read more please have a look at:
+
+-Computing Text Semantic Relatedness using the Contents and Links of a Hypertext Encyclopedia, Majid Yazdani and Andrei Popescu-Belis, in: Artificial Intelligence Journal, 194:176–202, 2013
+http://dx.doi.org/10.1016/j.artint.2012.06.004
+
+-Learning to Rank on Network Data, Majid Yazdani, Ronan Collobert and Andrei Popescu-Belis, in: Mining and Learning with Graphs, 2013
+http://snap.stanford.edu/mlg2013/submissions/mlg2013_submission_26.pdf
+
+-Similarity Learning Over Large Collaborative Networks, Majid Yazdani, Thèse École polytechnique fédérale de Lausanne EPFL, n° 5696 (2013)
+http://dx.doi.org/10.5075/epfl-thesis-5696
+
 Please feel free to contact me at majid.yazdaani@gmail.com
